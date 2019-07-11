@@ -8,6 +8,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "react-toastify": "^5.3.1",
     "uuid": "^3.3.2"
   },
   "scripts": {
@@ -48,5 +49,5 @@
     "prettier": "^1.17.1",
     "prop-types": "^15.7.2"
   },
-  "homepage": "https://Vanchurick.github.io/goit-react-hw-02/"
+  "homepage": "https://Vanchurick.github.io/goit-react-hw-03/"
 }

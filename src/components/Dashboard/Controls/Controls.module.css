@@ -1,0 +1,35 @@
+.controls {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #062c56;
+  height: 150px;
+}
+
+.button {
+  margin: 10px;
+  width: 190px;
+  height: 40px;
+  background-color: #3884ff;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #3884ff;
+  cursor: pointer;
+}
+
+.input {
+  margin: 10px;
+  width: 260px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 24px;
+}

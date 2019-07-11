@@ -37,7 +37,7 @@ class ImageSearchApp extends Component {
             images: hits.hits,
             page: prevState.page + 1,
           };
-        }),
+        }, scrollToBottom),
       )
       .catch(error => this.setState({ error }))
       .finally(() => this.setState({ isLoading: false }));

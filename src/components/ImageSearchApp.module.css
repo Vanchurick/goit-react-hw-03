@@ -26,3 +26,6 @@ img {
   grid-template-columns: 1fr;
   grid-gap: 24px;
 }
+.app {
+  margin-top: 50px;
+}
